@@ -5,10 +5,8 @@ I'm Jewel Hossain, a passionate Computer Science student specializing in IoT (In
 
 ## Interests and Expertise
 - IoT (Internet of Things)
-- Embedded Systems
-- Sensor Networks
-- Data Analysis
-- Web Development
+- Web Development(Front end)
+- HTML,CSS,Bootstrap
 
 ## Projects
 - [Project 1](https://github.com/JewelH9/Apex-Automotive): A website to sell super cars
