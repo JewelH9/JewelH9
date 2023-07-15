@@ -17,7 +17,7 @@ I'm Jewel Hossain, a passionate Computer Science student specializing in IoT (In
 I believe in the power of collaboration and open-source development. I actively engage in the GitHub community, sharing my projects, contributing to exciting repositories, and collaborating with fellow developers. If you're interested in working together or have any exciting opportunities, feel free to reach out!
 
 ## Get in Touch
-- GitHub: [JewelH9]([link-to-github-profile](https://github.com/JewelH9))
+- GitHub: [JewelH9](https://github.com/JewelH9)
 - Email: [jewelhossain9091@gmail.com](mailto:jewelhossain9091@gmail.com)
 
 Let's connect and build a smarter and more interconnected future together!
