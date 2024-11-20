@@ -39,6 +39,7 @@ I believe in the magic of **open-source development** and the strength of **coll
 
 - **GitHub**: [JewelH9](https://github.com/JewelH9)  
 - **Email**: [jewelhossain9091@gmail.com](mailto:jewelhossain9091@gmail.com)  
+- **LinkedIn**: [Jewel Hossain](https://www.linkedin.com/in/jewel-hossain-40b0a9257/)  
 
 ---
 
