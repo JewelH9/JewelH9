@@ -2,30 +2,30 @@
 
 # 👋 Hey there, I'm Jewel Hossain
 
-### IoT Engineer | Web Developer | Tech Enthusiast
+### AI/ML Engineer | Full-Stack Developer | IoT Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewel-hossain-40b0a9257/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jewelhossain9091@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JewelH9)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916291168843)
 
 </div>
 
 ---
 
 ## 🚀 About Me
-
 ```javascript
 const jewel = {
-    location: "Bangladesh 🇧🇩",
-    education: "Computer Science @ MSIT College",
-    specialization: "Internet of Things (IoT)",
-    currentFocus: ["Web Development", "IoT Systems", "Smart Solutions"],
-    motto: "Code. Connect. Innovate.",
-    funFact: "I turn coffee into code ☕→💻"
+    location: "Kolkata, West Bengal 🇮🇳",
+    education: "B.Tech in Computer Science (IoT) @ MSIT",
+    cgpa: "7.7/10.0",
+    currentFocus: ["Machine Learning", "Full-Stack Development", "IoT Systems"],
+    interests: ["AI & Emerging Technologies", "Continuous Learning"],
+    motto: "Building intelligent solutions for real-world problems"
 };
 ```
 
-I'm passionate about bridging the physical and digital worlds through IoT while crafting beautiful, responsive web experiences. Currently pursuing my degree in Computer Science with a specialization in IoT, I'm on a mission to build technology that makes a difference.
+Motivated Computer Science student with strong skills in **programming**, **problem-solving**, and **object-oriented design**. Solid foundation in data structures, algorithms, and software engineering principles. Seeking opportunities to contribute to real-world projects, learn industry best practices, and grow as a software professional.
 
 ---
 
@@ -33,35 +33,52 @@ I'm passionate about bridging the physical and digital worlds through IoT while 
 
 <div align="center">
 
-### Languages
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+### AI/ML & Data
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Featured Projects
 
-- 🌱 Mastering **JavaScript** and modern **front-end frameworks**
-- 🔧 Building real-world **IoT projects** that solve practical problems
-- 🤝 Contributing to **open-source** projects
-- 📚 Learning **backend development** and **cloud computing**
-- 🎨 Creating pixel-perfect, accessible web experiences
+### 🌾 [AI-ML Based Price Prediction for Agri-Horticultural Commodities](https://github.com/JewelH9)
+> **Team Project** | React, Tailwind CSS, Python, Flask, Machine Learning
+
+Built a web platform to predict prices of crops like onions and potatoes using historical data and ARIMA/SARIMA models. Designed input forms to capture key agricultural factors, enabling data-driven decisions for buffer stock management by government stakeholders.
+
+**Tech Stack:** React, Tailwind CSS, Python, Flask, Machine Learning  
+**Impact:** Government-level agricultural decision support
+
+---
+
+### 🌱 [Leaf Guard AI – Plant Leaf Disease Detection System](https://github.com/JewelH9)
+> **Final Year Project** | Python, Machine Learning, Streamlit
+
+Built an AI-powered plant disease detection system using Python and machine learning. Trained the model in Jupyter Notebook and deployed it via Streamlit with a farmer-friendly, responsive interface for real-time predictions.
+
+**Tech Stack:** Python, Machine Learning, Streamlit, Jupyter Notebook  
+**Features:** Real-time disease detection, Farmer-friendly UI, High accuracy predictions
 
 ---
 
@@ -69,37 +86,50 @@ I'm passionate about bridging the physical and digital worlds through IoT while 
 
 <div align="center">
   
-![Jewel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JewelH9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Jewel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JewelH9&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JewelH9&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JewelH9&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JewelH9&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JewelH9&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🌟 Featured Work
+## 🎓 Education
 
-### 🚗 [Apex Automotive](https://github.com/JewelH9/Apex-Automotive)
-> A modern, responsive website showcasing premium supercars with sleek design and intuitive navigation.
+**Meghnad Saha Institute of Technology**  
+*B.Tech in Computer Science (IoT Specialization)*  
+📍 Kolkata, West Bengal | 🗓️ Aug 2022 - Present  
+📈 CGPA: 7.7/10.0
 
-**Tech Stack:** HTML5, CSS3, Bootstrap  
-**Highlights:** Responsive Design, Modern UI/UX, Performance Optimized
+**Additional Coursework:**
+- Web Development
+- Data Analytics (Python)
+- Soft Skills
 
 ---
 
-## 💡 What I'm Learning
-
+## 💡 What I'm Exploring
 ```python
-learning_2026 = {
-    "frontend": ["React", "Tailwind CSS", "Next.js"],
-    "backend": ["Node.js", "Express", "MongoDB"],
-    "iot": ["ESP32", "MQTT Protocol", "Sensor Integration"],
-    "cloud": ["AWS IoT", "Firebase", "Docker"],
-    "skills": ["System Design", "API Development", "DevOps Basics"]
+current_learning = {
+    "ai_ml": ["Deep Learning", "Neural Networks", "NLP"],
+    "web_dev": ["Next.js", "TypeScript", "MongoDB"],
+    "iot": ["ESP32", "Sensor Networks", "Edge Computing"],
+    "cloud": ["AWS", "Docker", "Microservices"],
+    "focus": ["System Design", "Scalable Applications"]
 }
 ```
+
+---
+
+## 🌟 Interests
+
+- 🤖 **AI & Emerging Technologies**
+- 📚 **Continuous Learning**
+- 🌾 **AgriTech Solutions**
+- 🌐 **IoT & Smart Systems**
+- 💻 **Open Source Contribution**
 
 ---
 
@@ -107,10 +137,11 @@ learning_2026 = {
 
 I'm always excited to work on:
 
-- 🌐 **IoT Projects** - Smart home, automation, sensor networks
-- 💻 **Web Development** - Responsive websites, web applications
+- 🤖 **AI/ML Projects** - Predictive models, computer vision, NLP
+- 🌐 **Full-Stack Applications** - React, Node.js, REST APIs
+- 🌾 **AgriTech Solutions** - Agricultural innovation with technology
 - 🔓 **Open Source** - Contributing to meaningful projects
-- 🎓 **Learning Together** - Study groups, hackathons, tech discussions
+- 🎓 **Learning Together** - Hackathons, study groups, tech discussions
 
 ---
 
@@ -123,6 +154,7 @@ I'm always excited to work on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewel-hossain-40b0a9257/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jewelhossain9091@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JewelH9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/JewelH9)
 
 </div>
 
@@ -132,11 +164,11 @@ I'm always excited to work on:
 
 ### 💭 Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-**Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out.** ⭐
+**"Solving real-world problems through code, one commit at a time."** 💻✨
 
 <img src="https://komarev.com/ghpvc/?username=JewelH9&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
