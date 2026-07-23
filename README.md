@@ -1,19 +1,29 @@
 <div align="center">
 
-# 👋 Hey there, I'm Jewel Hossain
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20there,%20I'm%20Jewel%20Hossain%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Python%20Developer%20|%20IoT&descAlignY=55&descSize=18" width="100%"/>
 
-### AI/ML Engineer | Python Developer | IoT
+<a href="https://www.linkedin.com/in/jewel-hossain-40b0a9257/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+ML+Engineer;Python+%26+Full-Stack+Developer;IoT+%26+Embedded+Systems+Enthusiast;Building+intelligent+solutions+%F0%9F%9A%80&font=Fira+Code&center=true&width=650&height=40&color=61DAFB&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewel-hossain-40b0a9257/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jewelhossain9091@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JewelH9)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916291168843)
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=JewelH9&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/JewelH9?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub followers"/>
+
+<br/>
+
 </div>
 
----
-
 ## 🚀 About Me
+
 ```javascript
 const jewel = {
     location: "Kolkata, West Bengal 🇮🇳",
@@ -27,80 +37,106 @@ const jewel = {
 
 Motivated Computer Science student with strong skills in **programming**, **problem-solving**, and **object-oriented design**. Solid foundation in data structures, algorithms, and software engineering principles. Seeking opportunities to contribute to real-world projects, learn industry best practices, and grow as a software professional.
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif3.gif" width="100%">
+</div>
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,c,mysql&theme=dark" />
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,django,tailwind&theme=dark" />
 
 ### AI/ML & Data
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,flask,opencv&theme=dark" />
 
 ### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PopSQL](https://img.shields.io/badge/PopSQL-4384F5?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,github,postgres,vscode,postman&theme=dark" />
 
 </div>
 
----
+<br/>
+
+<details>
+<summary><b>📊 Skill Proficiency (click to expand)</b></summary>
+<br/>
+
+`Python`  ████████████████████░░░░ 85%
+`Machine Learning`  ███████████████░░░░░░░░░ 65%
+`JavaScript / React`  ████████████████░░░░░░░░ 70%
+`SQL / Databases`  ██████████████████░░░░░░ 75%
+`IoT / Embedded Systems`  ██████████████░░░░░░░░░░ 60%
+`Docker / DevOps`  ████████████░░░░░░░░░░░░ 50%
+
+</details>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif3.gif" width="100%">
+</div>
 
 ## 🎯 Featured Projects
 
-### 💚 [MailToMint — AI-Powered Invoice & Expense Intelligence Platform](https://github.com/JewelH9/MailtoMint)
-> **Personal Project** | React 18, Vite, Tailwind CSS, Python, FastAPI, Gemini 2.0 Flash
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💚 [MailToMint](https://github.com/JewelH9/MailtoMint)
+**AI-Powered Invoice & Expense Intelligence Platform**
+> Personal Project | React 18, Vite, Tailwind CSS, Python, FastAPI, Gemini 2.0 Flash
 
 Built an end-to-end expense management web application that automates invoice processing using OCR and Google Gemini 2.0 Flash to extract structured transaction data. Features asynchronous background processing, IMAP email-to-invoice automation, a rule-based AI fraud detection engine, natural language search, and one-click exports (CSV, Excel, PDF) to streamline financial workflows.
 
-**Tech Stack:** React 18, Vite, Tailwind CSS, Python, FastAPI, SQLAlchemy, Google Gemini, PaddleOCR, PostgreSQL, Cloudinary  
+**Tech Stack:** React 18, Vite, Tailwind CSS, Python, FastAPI, SQLAlchemy, Google Gemini, PaddleOCR, PostgreSQL, Cloudinary
+
 **Impact:** Automated expense tracking, duplicate bill detection, and real-time spending insights for small businesses
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌱 [Leaf Guard AI – Plant Leaf Disease Detection System](https://github.com/JewelH9/leaf-guard-ai_version_4)
-> **Final Year Project** | Python, Machine Learning, Streamlit
+### 🌱 [Leaf Guard AI](https://github.com/JewelH9/leaf-guard-ai_version_4)
+**Plant Leaf Disease Detection System**
+> Final Year Project | Python, Machine Learning, Streamlit
 
 Built an AI-powered plant disease detection system using Python and machine learning. Trained the model in Jupyter Notebook and deployed it via Streamlit with a farmer-friendly, responsive interface for real-time predictions.
 
-**Tech Stack:** Python, Machine Learning, Streamlit, Jupyter Notebook  
+**Tech Stack:** Python, Machine Learning, Streamlit, Jupyter Notebook
+
 **Features:** Real-time disease detection, Farmer-friendly UI, High accuracy predictions
 
----
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif3.gif" width="100%">
+</div>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/JewelH9">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JewelH9&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=JewelH9&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JewelH9&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JewelH9&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&animation=fadeIn" width="100%"/>
+</div>
 
 ## 🎓 Education
 
-**Meghnad Saha Institute of Technology**  
-*B.Tech in Computer Science (IoT Specialization)*  
-📍 Kolkata, West Bengal | 🗓️ Aug 2022 - Present  
+**Meghnad Saha Institute of Technology**
+*B.Tech in Computer Science (IoT Specialization)*
+📍 Kolkata, West Bengal | 🗓️ Aug 2022 - Present
 📈 CGPA: 7.7/10.0
 
 **Additional Coursework:**
@@ -108,42 +144,52 @@ Built an AI-powered plant disease detection system using Python and machine lear
 - Data Analytics (Python)
 - Soft Skills
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif3.gif" width="100%">
+</div>
 
 ## 💡 What I'm Exploring
+
 ```python
 current_learning = {
-    "ai_ml": ["Deep Learning", "Neural Networks", "NLP"],
-    "web_dev": ["Next.js", "TypeScript", "MongoDB"],
-    "iot": ["ESP32", "Sensor Networks", "Edge Computing"],
+    "python_backend": ["FastAPI", "Django", "REST API Design"],
+    "database_sql": ["PostgreSQL", "MySQL", "SQLAlchemy"],
     "cloud": ["AWS", "Docker", "Microservices"],
-    "focus": ["System Design", "Scalable Applications"]
+    "ai_ml": ["ML Fundamentals", "Neural Networks Basics", "Scikit-learn"],  # beginner level
+    "focus": ["System Design", "Scalable Applications"],
+    "web_dev": ["HTML/CSS", "JavaScript", "React Basics"]  # beginner level
 }
 ```
 
----
-
 ## 🌟 Interests
 
-- 🤖 **AI & Emerging Technologies**
-- 📚 **Continuous Learning**
-- 🌾 **AgriTech Solutions**
-- 🌐 **IoT & Smart Systems**
-- 💻 **Open Source Contribution**
+<div align="center">
 
----
+![AI](https://img.shields.io/badge/AI_%26_Emerging_Tech-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Learning](https://img.shields.io/badge/Continuous_Learning-1E90FF?style=for-the-badge&logo=googlescholar&logoColor=white)
+![AgriTech](https://img.shields.io/badge/AgriTech_Solutions-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT_%26_Smart_Systems-FF8C00?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![OSS](https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif3.gif" width="100%">
+</div>
 
 ## 🤝 Let's Collaborate!
 
 I'm always excited to work on:
 
-- 🤖 **AI/ML Projects** - Predictive models, computer vision, NLP
-- 🌐 **Full-Stack Applications** - React, Node.js, REST APIs
-- 🌾 **AgriTech Solutions** - Agricultural innovation with technology
-- 🔓 **Open Source** - Contributing to meaningful projects
-- 🎓 **Learning Together** - Hackathons, study groups, tech discussions
+- 🤖 **AI/ML Projects** — Predictive models, computer vision, NLP
+- 🌐 **Full-Stack Applications** — React, Node.js, REST APIs
+- 🌾 **AgriTech Solutions** — Agricultural innovation with technology
+- 🔓 **Open Source** — Contributing to meaningful projects
+- 🎓 **Learning Together** — Hackathons, study groups, tech discussions
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gif3.gif" width="100%">
+</div>
 
 ## 📫 Connect With Me
 
@@ -170,6 +216,6 @@ I'm always excited to work on:
 
 **"Solving real-world problems through code, one commit at a time."** 💻✨
 
-<img src="https://komarev.com/ghpvc/?username=JewelH9&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" width="100%"/>
