@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Jewel Hossain
 
-### AI/ML Engineer | Full-Stack Developer | IoT Specialist
+### AI/ML Engineer | Python Developer | IoT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jewel-hossain-40b0a9257/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jewelhossain9091@gmail.com)
@@ -62,13 +62,13 @@ Motivated Computer Science student with strong skills in **programming**, **prob
 
 ## 🎯 Featured Projects
 
-### 🌾 [AI-ML Based Price Prediction for Agri-Horticultural Commodities](https://github.com/JewelH9)
-> **Team Project** | React, Tailwind CSS, Python, Flask, Machine Learning
+### 💚 [MailToMint — AI-Powered Invoice & Expense Intelligence Platform](https://github.com/JewelH9)
+> **Personal Project** | React 18, Vite, Tailwind CSS, Python, FastAPI, Gemini 2.0 Flash
 
-Built a web platform to predict prices of crops like onions and potatoes using historical data and ARIMA/SARIMA models. Designed input forms to capture key agricultural factors, enabling data-driven decisions for buffer stock management by government stakeholders.
+Built an end-to-end expense management web application that automates invoice processing using OCR and Google Gemini 2.0 Flash to extract structured transaction data. Features asynchronous background processing, IMAP email-to-invoice automation, a rule-based AI fraud detection engine, natural language search, and one-click exports (CSV, Excel, PDF) to streamline financial workflows.
 
-**Tech Stack:** React, Tailwind CSS, Python, Flask, Machine Learning  
-**Impact:** Government-level agricultural decision support
+**Tech Stack:** React 18, Vite, Tailwind CSS, Python, FastAPI, SQLAlchemy, Google Gemini, PaddleOCR, PostgreSQL, Cloudinary  
+**Impact:** Automated expense tracking, duplicate bill detection, and real-time spending insights for small businesses
 
 ---
 
