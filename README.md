@@ -62,7 +62,7 @@ Motivated Computer Science student with strong skills in **programming**, **prob
 
 ## 🎯 Featured Projects
 
-### 💚 [MailToMint — AI-Powered Invoice & Expense Intelligence Platform](https://github.com/JewelH9)
+### 💚 [MailToMint — AI-Powered Invoice & Expense Intelligence Platform](https://github.com/JewelH9/MailtoMint)
 > **Personal Project** | React 18, Vite, Tailwind CSS, Python, FastAPI, Gemini 2.0 Flash
 
 Built an end-to-end expense management web application that automates invoice processing using OCR and Google Gemini 2.0 Flash to extract structured transaction data. Features asynchronous background processing, IMAP email-to-invoice automation, a rule-based AI fraud detection engine, natural language search, and one-click exports (CSV, Excel, PDF) to streamline financial workflows.
@@ -72,7 +72,7 @@ Built an end-to-end expense management web application that automates invoice pr
 
 ---
 
-### 🌱 [Leaf Guard AI – Plant Leaf Disease Detection System](https://github.com/JewelH9)
+### 🌱 [Leaf Guard AI – Plant Leaf Disease Detection System](https://github.com/JewelH9/leaf-guard-ai_version_4)
 > **Final Year Project** | Python, Machine Learning, Streamlit
 
 Built an AI-powered plant disease detection system using Python and machine learning. Trained the model in Jupyter Notebook and deployed it via Streamlit with a farmer-friendly, responsive interface for real-time predictions.
