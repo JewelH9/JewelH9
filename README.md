@@ -88,15 +88,11 @@ Built an AI-powered plant disease detection system using Python and machine lear
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Jewel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JewelH9&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JewelH9&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JewelH9&theme=radical&hide_border=true)
-
-</div>
+<p align="center">
+  <a href="https://github.com/JewelH9">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JewelH9&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
