@@ -136,8 +136,8 @@ Built an AI-powered plant disease detection system using Python and machine lear
 
 **Meghnad Saha Institute of Technology**
 *B.Tech in Computer Science (IoT Specialization)*
-📍 Kolkata, West Bengal | 🗓️ Aug 2022 - Present
-📈 CGPA: 7.7/10.0
+📍 Kolkata, West Bengal | 🗓️ Aug 2022 - Jul 2026
+📈 CGPA: 7.83/10.00
 
 **Additional Coursework:**
 - Web Development
